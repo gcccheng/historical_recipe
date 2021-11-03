@@ -2,5 +2,7 @@
 
 - eggs
 - butter
-- chives
+- garlic
 - cream
+- salt
+- bacon

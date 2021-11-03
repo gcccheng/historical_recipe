@@ -2,5 +2,5 @@
 
 - eggs
 - butter
-- chives
+- garlic
 - cream

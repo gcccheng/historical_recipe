@@ -4,3 +4,4 @@
 - butter
 - chives
 - cream
+- garlic
